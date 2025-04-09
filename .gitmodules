@@ -1,0 +1,3 @@
+[submodule "django-basic-kadai"]
+	path = django-basic-kadai
+	url = https://github.com/yumi-lightright/django-basic-kadai.git
